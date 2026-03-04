@@ -1,0 +1,4 @@
+especie1.fasta
+especie2.fasta
+especie3.fasta
+especie4.fasta

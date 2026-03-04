@@ -1,0 +1,18 @@
+# BLASTN 2.12.0+
+# Query: Novo_isolado_Paciente_X
+# Database: database/Hpylori_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+Novo_isolado_Paciente_X	MN845187.1	100.000	523	0	0	1	523	2	524	0.0	966
+Novo_isolado_Paciente_X	MN845181.1	100.000	523	0	0	1	523	1	523	0.0	966
+Novo_isolado_Paciente_X	MN845189.1	99.809	524	0	1	1	523	2	525	0.0	961
+Novo_isolado_Paciente_X	MN845954.1	99.808	520	0	1	1	520	158	676	0.0	953
+Novo_isolado_Paciente_X	MN845953.1	99.808	520	0	1	1	520	153	671	0.0	953
+Novo_isolado_Paciente_X	MN845182.1	100.000	514	0	0	1	514	1	514	0.0	950
+Novo_isolado_Paciente_X	MN845190.1	100.000	508	0	0	7	514	1	508	0.0	939
+Novo_isolado_Paciente_X	MN845184.1	100.000	505	0	0	7	511	1	505	0.0	933
+Novo_isolado_Paciente_X	MN845183.1	99.791	479	1	0	6	484	1	479	0.0	880
+Novo_isolado_Paciente_X	MN845185.1	99.789	475	1	0	46	520	2	476	0.0	872
+Novo_isolado_Paciente_X	MN845188.1	100.000	471	0	0	1	471	1	471	0.0	870
+Novo_isolado_Paciente_X	MN845186.1	100.000	456	0	0	65	520	1	456	0.0	843
+# BLAST processed 1 queries
