@@ -1,0 +1,14 @@
+# Sequencing data
+*.fastq
+*.fq
+*.bam
+*.sam
+
+# Logs
+*.log
+*.tmp
+*.out
+
+# System files
+.DS_Store
+
